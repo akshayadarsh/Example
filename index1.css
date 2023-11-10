@@ -1,0 +1,27 @@
+.box{
+    border: 1px solid rgb(126, 126, 230);
+    width: 500px;
+    height:400px;
+    margin: auto;
+    text-align: center;
+    background-color: rgb(126, 126, 221);
+}
+body{
+    background-color: pink;
+    margin: 0;
+}
+.input{
+    width: 300px;
+}
+.list ul  {
+    
+    width: 50%;
+    margin: auto;
+    text-align: left;
+}
+.item{
+    border: 1px dashed aqua;
+    border-radius: 10px;
+    padding: 3px;
+    background-color: greenyellow;
+}
